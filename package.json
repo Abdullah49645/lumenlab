@@ -1,0 +1,20 @@
+{
+  "name": "lumenlab",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A physics learning laboratory: build it, run it, figure out why.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.4"
+  }
+}
