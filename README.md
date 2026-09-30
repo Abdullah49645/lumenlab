@@ -2,7 +2,9 @@
 
 **Learn physics by making it happen.** Build it. Run it. Figure out why.
 
-https://lumenlab-blond.vercel.app/
+**[▶ Try it live](https://lumenlab-blond.vercel.app/)** · [Watch the demo](docs/media/lumenlab-demo.mp4) · [How it works](#how-it-works)
+
+[![Open LumenLab](docs/media/home.webp)](https://lumenlab-blond.vercel.app/)
 
 ![The LumenLab home screen: three experiments over a live projectile demo.](docs/media/home.webp)
 
