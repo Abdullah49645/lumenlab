@@ -246,7 +246,7 @@ The build is static (`base: './'`) and can be served from GitHub Pages, Netlify 
 
 ## AI usage
 
-AI assistance was used significantly in this project. Claude (Anthropic) generated much of the implementation (the three engines, evaluators, lesson data, state machine, UI and tests), this README, and the scripted recording and AI voiceover of the demo video, from a detailed design brief written by the author. The author reviewed and tested the code, directed the product and learning design, and is responsible for the final decisions.
+AI assistance was used significantly in this project. Claude (Anthropic) generated much of the implementation (the three engines, evaluators, lesson data, state machine, UI and tests), this README, and the  AI voiceover of the demo video, from a detailed design brief written by the author. The author reviewed and tested the code, directed the product and learning design, and is responsible for the final decisions.
 
 ## License
 
