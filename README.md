@@ -2,6 +2,8 @@
 
 **Learn physics by making it happen.** Build it. Run it. Figure out why.
 
+https://lumenlab-blond.vercel.app/
+
 ![The LumenLab home screen: three experiments over a live projectile demo.](docs/media/home.webp)
 
 LumenLab is a physics laboratory in the browser where you don't start with the formula. You start by trying to make something happen: build an experiment, predict what it will do, run it, look at what actually happened, change something, and try again. The equation arrives at the end, as the explanation for something you've already seen.
